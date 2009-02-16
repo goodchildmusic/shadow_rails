@@ -4,8 +4,8 @@ require File.dirname(__FILE__) + '/lib/rails_manifest.rb'
 class ApplicationManifest < RailsManifest
 
   # name your app
-  name "birddog"
-  domain "birddog.railsmachine.com"
+  name "lawsonwhiteproductions"
+  domain "lawsonwhiteproductions.com"
   database_password "secret"
 
   # add your gems and other good stuff here
